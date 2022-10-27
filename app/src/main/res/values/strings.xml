@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Desafio MBA IGTI Modulo 1</string>
+    <string name="empty_list_message">Não há produtos na lista</string>
+    <string name="descricao_produto">Descrição do produto</string>
+    <string name="quantity">Quantidade</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="salvar">Salvar</string>
 </resources>
