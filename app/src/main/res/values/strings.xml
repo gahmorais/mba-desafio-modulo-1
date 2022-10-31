@@ -5,4 +5,10 @@
     <string name="quantity">Quantidade</string>
     <string name="cancelar">Cancelar</string>
     <string name="salvar">Salvar</string>
+    <string name="description_add_button">Botão para adicionar novos produtos</string>
+    <string name="placeholder_description_product">Descrição</string>
+    <string name="placeholder_quantity">Quantidade</string>
+    <string name="error_empty_description">Informe uma descrição</string>
+    <string name="error_quantity">A quantidade nao pode ser zero</string>
+    <string name="text_total_products">Total de produtos:</string>
 </resources>
